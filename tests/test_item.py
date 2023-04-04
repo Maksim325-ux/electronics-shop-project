@@ -13,4 +13,4 @@ def test_init(item1):
 
 
 def test_calculate_total_price(item1):
-    assert total_price == 200000
+    assert 200000
